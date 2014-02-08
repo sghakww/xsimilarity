@@ -8,7 +8,7 @@ import java.util.Map;
 
 /**
  * 文档的特征
- * 
+ *  
  * @author xiatian
  *
  */
